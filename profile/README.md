@@ -36,7 +36,10 @@ npm i @nhatnguyet/ziwei @nhatnguyet/lunar   # or: pip install nhatnguyet
 
 - [guardrail-chatbot-jev](https://github.com/Nhat-Nguyet/guardrail-chatbot-jev): content safety guardrails for AI chatbots. Input, output and whole-conversation checks run from one policy file, with a compliance pack for Vietnamese law.
 - [guardrail-rag-jev](https://github.com/Nhat-Nguyet/guardrail-rag-jev): guardrails for RAG. It checks documents before indexing, user queries, retrieved passages and answers, and names the legal basis of every violation.
-- [product-skill-jev](https://github.com/Nhat-Nguyet/product-skill-jev): a product management co-pilot that writes the documents, keeps the process honest and leaves every decision to you.
+
+### Product management
+
+[product-skill-jev](https://github.com/Nhat-Nguyet/product-skill-jev): a product management co-pilot that writes the documents, keeps the process honest and leaves every decision to you.
 
 ### Embeddable widgets
 
