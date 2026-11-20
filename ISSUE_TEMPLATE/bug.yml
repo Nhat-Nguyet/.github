@@ -1,0 +1,25 @@
+name: Bug or wrong result
+description: Something breaks, or a result does not match its source
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: The input, the output you got, and the output you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: For a wrong result, the book, chapter and page, or data with a link.
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+  - type: textarea
+    id: env
+    attributes:
+      label: Environment
+      description: Language and runtime version, operating system, browser if relevant.
