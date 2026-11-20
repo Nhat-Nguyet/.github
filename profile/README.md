@@ -41,9 +41,9 @@ npm i @nhatnguyet/ziwei @nhatnguyet/lunar   # or: pip install nhatnguyet
 
 [product-skill-jev](https://github.com/Nhat-Nguyet/product-skill-jev): a product management co-pilot that writes the documents, keeps the process honest and leaves every decision to you.
 
-### Embeddable widgets
+### [nhatnguyet-widgets](https://github.com/Nhat-Nguyet/nhatnguyet-widgets)
 
-14 free widgets that each go into a page with one line of HTML: [lunar calendar](https://github.com/Nhat-Nguyet/widget-lich-thang), [today](https://github.com/Nhat-Nguyet/widget-lich-hom-nay), [auspicious hours](https://github.com/Nhat-Nguyet/widget-gio-hoang-dao), [date converter](https://github.com/Nhat-Nguyet/widget-doi-lich), [Tết countdown](https://github.com/Nhat-Nguyet/widget-dem-nguoc-tet), [Lỗ Ban ruler](https://github.com/Nhat-Nguyet/widget-lo-ban) and [more](https://github.com/orgs/Nhat-Nguyet/repositories?q=widget).
+14 free widgets that each go into a page with two lines of HTML: lunar calendar, today's date, auspicious hours, date converter, Tết countdown, Lỗ Ban ruler and more. No account or API key, in Vietnamese, English or Chinese.
 
 ## How we work
 
